@@ -20,7 +20,7 @@ main(){
   }else if(mediaDoAluno < 4.0){
     printf("Reprovado");
 
-  }else(mediaDoAluno >= 4.0 < 7.0){
+  }else if(mediaDoAluno >= 4.0 < 7.0){
 
     printf("Recuperação");
 
